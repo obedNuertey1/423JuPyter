@@ -48,10 +48,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true&locale=en" alt="visheshguria" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fabpot&" alt="visheshguria" /></p> -->
-<a href="https://cumsoft.gumroad.com">
-  <img src="https://github.com/cumsoftcumsoft/cumsoftcumsoft/blob/386f0e52fc2bc0000c2bb6ab4aa5c1d030109781/cumsoft_virtgit.jpg" alt="CumsoftOS" style="width:560px;height:460px;">
-</a>
-<br>
+<h3 align="left">Certifications</h3>
 <a href="https://cumsoft.gumroad.com/l/OvenLTE">
   <img src="https://github.com/cumsoft/cumsoft/blob/a15f0883bc0bc630b8967a4cc369b0685ce9749f/OvenLTE_Flyer2.jpg" alt="OvenLTE" style="width:90px;height:140px;">
 </a>
