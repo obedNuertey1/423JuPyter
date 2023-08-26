@@ -43,7 +43,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,,html,css,js,ts,next,nuxt,react,,solidity,prometheus,androidstudio,flutter,reactivex,aws,azure,cloudflare,,angular,nodejs,express,python,django,rails,ruby,,fastapi,go,java,codepen,git,github,gitlab,postman,,vue,laravel,php,qt,c,cpp,cs,,discord,bots,reactivex,swift,powershell,stackoverflow,styledcomponents,webpack,,figma,wordpress,mysql,postgresql,firebase,flask,dotnet,,kotlin,unity,linux,electron&perline=17"/>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabpot&show_icons=true&locale=en&layout=compact" alt="visheshguria" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=423JuPyter&show_icons=true&locale=en&layout=compact" alt="visheshguria" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fabpot&show_icons=true&locale=en" alt="visheshguria" /></p>
 
