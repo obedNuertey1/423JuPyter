@@ -1,4 +1,4 @@
-![image](https://github.com/423JuPyter/423JuPyter/assets/134636584/629ff1dd-9cc5-47fd-920b-3dc30feb1050)<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <body>
     <div style="display: flex; justify-content: center;">
