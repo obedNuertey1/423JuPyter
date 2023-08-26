@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/417e6e178a69cc045c656d083ba983a59303f099087090269c01cacc6741ef29/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)](https://visheshguria.github.io)
 <h1 align="center"> 😇Hi, I'm Robert Wilson 👋</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<h3 align="center">A passionate JAVA Backend Developer from India. Extensive expertise in website architecture, design, and web design. Knows about DATA Structure and Git-Flow.</h3>
+<h3 align="center">A passionate Full Stack Developer from US. Extensive expertise in website architecture, design, and web design. Knows about DATA Structure and Git-Flow.</h3>
 <img align="left" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 
@@ -12,9 +12,9 @@
 
 
 
-- 🔭 I’m currently working on **Advance JAVA**
+- 🔭 I’m currently working on **Advance Full Stack**
 
-- 🌱 I’m currently learning **Application of DSA Using JAVA.**
+- 🌱 I’m currently learning **Application of DSA Using Full Stack.**
 
 - 👯 Worked as Team Leader on Collaborative Lumen5 Clone Project. [Lumen5 Clone](https://visionary-gumdrop-304cda.netlify.app/)
 
@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects and Resume are available at [https://visheshguria.github.io/](https://visheshguria.github.io/)
 
-- 💬 Ask me about **JAVA, DSA, javascript, css, html**
+- 💬 Ask me about **Python, DSA, javascript, css, html**
 
 - 📫 How to reach me **robertw0320@gmail.com**
 
