@@ -2,7 +2,6 @@
 <html>
 <body>
     <div style="display: flex; justify-content: center;">
-        
         <img align="center" src="./assets/Welcome.gif" />
     </div>
     <p>
