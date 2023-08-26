@@ -2,7 +2,7 @@
 <html>
 <body>
     <div style="display: flex; justify-content: center;">
-        <img src="https://github.com/423JuPyter/423JuPyter/assets/134636584/af66929c-09e4-4cb1-a7bf-b4f429c5273d" alt="Image">
+        <img align="right" alt="GIF" src="https://raw.githubusercontent.com/luoyger/luoyger/main/code.gif" width="400" height="300" />
         <img align="center" src="./assets/Welcome.gif" />
     </div>
     <p>
