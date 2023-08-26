@@ -25,6 +25,7 @@
 - 💬 Ask me about **Python, DSA, javascript, css, html**
 
 - 📫 How to reach me **robertw0320@gmail.com**
+- [![github contribution grid snake animation](https://raw.githubusercontent.com/Brainhub24/Brainhub24/main/github-contribution-grid-snake.svg)](https://github.com/Brainhub24)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabpot&label=Profile%20views&color=0e75b6&style=flat" alt="visheshguria" /> </p>
