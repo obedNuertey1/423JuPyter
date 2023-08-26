@@ -20,7 +20,7 @@
 
 - 🤝Worked as Team Leader on Collaborative NetMeds Clone Project. [NetMeds Clone](https://verdant-strudel-f074e5.netlify.app/)
 
-- 👨‍💻 All of my projects and Resume are available at [https://visheshguria.github.io/](https://visheshguria.github.io/)
+- 👨‍💻 All of my projects and Resume are available at [https://423JuPyter.github.io/](https://423JuPyter.github.io/)
 
 - 💬 Ask me about **Python, DSA, javascript, css, html**
 
@@ -47,7 +47,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=visheshguria&show_icons=true&locale=en" alt="visheshguria" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=visheshguria&" alt="visheshguria" /></p> -->
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=visheshguria" alt="visheshguria" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=423JuPyter" alt="visheshguria" /></p>
 <br/>
-
-<a href="https://github.com/visheshguria/github-readme-activity-graph"><img alt="Vishesh Guria's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=visheshguria&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
