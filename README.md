@@ -2,6 +2,7 @@
 <html>
 <body>
     <div style="display: flex; justify-content: center;">
+        <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fsklc-tinymce-2021.s3.amazonaws.com%2Fcomp%2F2023%2F03%2F4%2520(40)_1677858158.png&tbnid=qhzWO_tv87919M&vet=12ahUKEwio5rugkvmAAxWDjosKHbTpD34QMygxegUIARC1AQ..i&imgrefurl=https%3A%2F%2Fskill-lync.com%2Fblogs%2Ftop-10-skills-essential-for-web-developers-to-learn-in-2023&docid=6nM9AcgFV5ZJ4M&w=514&h=514&q=web%20skills%20image&ved=2ahUKEwio5rugkvmAAxWDjosKHbTpD34QMygxegUIARC1AQ" alt="Web Skills Image">
         <img align="center" src="./assets/Welcome.gif" />
     </div>
     <p>
