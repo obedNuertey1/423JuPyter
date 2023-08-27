@@ -81,5 +81,5 @@
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 </div>
 <script>
-  
+  alert(1)
 </script>
