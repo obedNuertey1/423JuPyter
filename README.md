@@ -80,28 +80,3 @@
 | [<img src="https://avatars3.githubusercontent.com/u/6992488?v=4" width="100px;"/><br /><sub><b>maleja111</b></sub>](https://github.com/maleja111)<br />             | [<img src="https://avatars0.githubusercontent.com/u/7296623?v=4" width="100px;"/><br /><sub><b>Jorge Vergara</b></sub>](http://javebratt.com)<br />                       | [<img src="https://avatars0.githubusercontent.com/u/30100043?v=4" width="100px;"/><br /><sub><b>Juanjo Rendon</b></sub>](https://github.com/jnrndn)<br />             |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 </div>
-
-
-
-<div id="avatars"></div>
-
-<script>
-  // Fetch followers data from an API
-  fetch('https://api.github.com/users/423JuPyter/followers')
-    .then(response => response.json())
-    .then(data => {
-      const avatarsContainer = document.getElementById('avatars');
-      
-      // Iterate through the followers and generate avatars
-      data.forEach(follower => {
-        const avatarImg = document.createElement('img');
-        avatarImg.src = follower.avatar_url;
-        avatarImg.alt = follower.login;
-        avatarImg.title = follower.login;
-        avatarImg.style.width = '100px';
-        
-        avatarsContainer.appendChild(avatarImg);
-      });
-    })
-    .catch(error => console.error(error));
-</script>
