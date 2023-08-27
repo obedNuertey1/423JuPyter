@@ -32,14 +32,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fabpot" alt="visheshguria" /></a> </p>
 
-
-
-<h3 align="left">Connect with me:-</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishesh-guria-153bb7136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishesh-guria-153bb7136" height="30" width="40" /></a>
-<a href="https://instagram.com/vishesh_guria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishesh_guria" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,,html,css,js,ts,next,nuxt,react,,solidity,prometheus,androidstudio,flutter,reactivex,aws,azure,cloudflare,,angular,nodejs,express,python,django,rails,ruby,,fastapi,go,java,codepen,git,github,gitlab,postman,,vue,laravel,php,qt,c,cpp,cs,,discord,bots,reactivex,swift,powershell,stackoverflow,styledcomponents,webpack,,figma,wordpress,mysql,postgresql,firebase,flask,dotnet,,kotlin,unity,linux,electron&perline=17"/>
 
