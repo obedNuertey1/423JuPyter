@@ -66,7 +66,7 @@
   <img src="https://github.com/cumsoft/cumsoft/blob/bb976263213fc99febb80ad84a37bac487b71ae9/Cursorority_Pak3_Flyer2.jpg" alt="Cursorority_Pak3" style="width:90px;height:140px;">
 </a>
 <div align="center">
-    <h1 align="center"> ️💚️ Agradecimientos 💚 </h1>
+    <h1 align="center"> ️We ❤️ U Robert!!!</h1>
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
